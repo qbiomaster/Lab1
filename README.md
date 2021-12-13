@@ -1,11 +1,5 @@
 # Lab1
 short group projects for the first year students
-NUMBER	NAME	MAIL	LAB	TOPIC	SLOT 1	SLOT2	1 STUDENT	3 STUDENTS
-1	BONNET	jerome.bonnet@cbs.cnrs.fr	CBS	Rapid prototyping of genetic logic gates	OK	OK		
-2	NOLLMANN	marcelo.nollmann@cbs.cnrs.fr	CBS	Hi-M 	MAYBE	OK	YES	YES
-2	FICHE	jb.fiche@gmail.com	 	Flat field optical microscope for H-M	OK	OK	YES	
-3	CAMBRAY	guillaume.cambray@cbs.cnrs.fr	CBS	Impact of ribosome recycling on translation	OK	OK		
-4	BUFFARD / RADULESCU	marion.buffard@umontpellier.fr	LPHI	Semi-quantitative analysis of signaling networks in oncology	OK	OK		
 
 
 
