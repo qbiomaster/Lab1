@@ -5,7 +5,7 @@ short group projects for the first year students
 
 | Number  | Proposed by  | Contact mail  | Lab  | Topic  | Slot 1 | Slot 2 | available for 3 or 1 students? |
 |---|---|---|---|---| ---| --- | --- |
-| 1  | BONNET  | jerome.bonnet@cbs.cnrs.fr  | CBS | Rapid prototyping of genetic logic gates  |  X  |  X   |     |
+| 1  | BONNET  | jerome.bonnet@cbs.cnrs.fr  | CBS | Rapid prototyping of genetic logic gates  |  X  |  X   |  1  |
 | 2  | NOLLMANN  | marcelo.nollmann@cbs.cnrs.fr  | CBS  | Hi-M  | Maybe   |  X   | 1 or 3  |
 | 3  | FICHE  | jb.fiche@gmail.com  | CBS | Flat field optical microscope for H-M  |  X |  X  |   1  |    
 | 4  | CAMBRAY |	guillaume.cambray@cbs.cnrs.fr	| CBS	| Impact of ribosome recycling on translation   |  X |  X   |  |
