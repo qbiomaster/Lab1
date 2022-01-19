@@ -1,6 +1,6 @@
 ﻿|Day| Time |Name|Topic|
 |--|--|--|--|
-|Thu January 20|9h-10h30|Marie Laure Parmentier|Green Science|
+|Reported|TBD|Marie Laure Parmentier|Green Science|
 |Wed January 26|10h30 - 12h|Caroline Clerte|H&S - Lab notebooks|
 |Thu January 27|10h30 -12h|Cherine Bechara & Manu Margeat|Oral and poster presentation 1|
 |Mon January 31|14h - 15h30|Thierry Gostan|General statistics & concept of epistemology|
