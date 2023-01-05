@@ -10,7 +10,7 @@
 |Tuesday January 31th |9:30-10:30|JP Villemin|Data visualisation 2|
 |Tuesday January 31th |10:45-12:15|ML. Parmentier|Green Science|
 |Tuesday February 7th|15:00-16:30|O. Hennaut & F. Boulland|Open Science|
-|Tuesday February 7th|16:45-18:15|C. CLerte|Lab Notebook|
+|Tuesday February 7th|16:45-18:15|C. Clerte|Lab Notebook|
 |TBC|TBC|TBC|Statistics|
 
 
