@@ -1,4 +1,5 @@
 ### Tentative calendar - To be confirmed
+### Location : CBS 29 - Bungalow
 
 |Day| Time |Name|Topic|
 |--|--|--|--|
