@@ -11,8 +11,7 @@
 |Tuesday January 31th |10:45-12:15|ML. Parmentier|Green Science|
 |Tuesday February 7th|15:00-16:30|O. Hennaut & F. Boulland|Open Science|
 |Tuesday February 7th|16:45-18:15|C. Clerte|Lab Notebook|
-|Monday February 13th|TBC|TBC|Statistics|
-|Monday February 13th|TBC|E. Margeat|Poster presentation 2|
+|Monday February 13th|14:30-16:00|E. Margeat|Poster presentation 2|
 
 
 
