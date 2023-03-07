@@ -14,7 +14,9 @@
 |David LEQUEN	|Topic 3|Alessandro Barducci|alessandro.barducci..at..cbs.cnrs.fr|
 
 Topic 1 : Margeat - Measuring fluorophore properties at low concentration : toward structural biology with single molecule FRET
+
 Topic 2 : Quast - Fluorescent double labeling of metabotropic glutamate receptors using non-canonical amino acids for single molecule tracking and smFRET in the membrane of living cells 
+
 Topic 3 : Barducci - Quantitative study of coacervation study in a model RNA/cationic peptide model 
 
 
